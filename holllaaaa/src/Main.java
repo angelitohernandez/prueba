@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Mensaje ahora de main");
+        System.out.println("Mensaje final: main + mensaje1");
     }
 }
